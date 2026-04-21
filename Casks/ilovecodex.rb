@@ -2,10 +2,10 @@
 # frozen_string_literal: true
 
 cask "ilovecodex" do
-  version "0.3.2"
-  sha256 "208ebf10ffd9f07759f5c8b50dffcf9dbf63d36dd02a0fdcc8f3fe990dfc2786"
+  version "0.3.3"
+  sha256 "0e1ae46638c941a60aa2b221f448cb22917f040cfc119f0280cf9393beeb4ee0"
 
-  url "https://github.com/bee1an/ILoveCodex/releases/download/v0.3.2/ilovecodex-0.3.2.dmg"
+  url "https://github.com/bee1an/ILoveCodex/releases/download/v0.3.3/ilovecodex-0.3.3.dmg"
   name "Ilovecodex"
   desc "Desktop account manager for Codex sessions"
   homepage "https://github.com/bee1an/ILoveCodex"
