@@ -1,17 +1,17 @@
-# homebrew-ilovecodex
+# homebrew-codexdock
 
-Homebrew tap for Ilovecodex.
+Homebrew tap for CodexDock.
 
 ## Install
 
 ```bash
-brew tap bee1an/ilovecodex
-brew install --cask ilovecodex
+brew tap bee1an/codexdock
+brew install --cask codexdock
 ```
 
 ## Upgrade
 
 ```bash
 brew update
-brew upgrade --cask ilovecodex
+brew upgrade --cask codexdock
 ```
