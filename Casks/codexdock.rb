@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "codexdock" do
-  version "0.4.5"
-  sha256 "94a87d590a7c2e27b397ce3b93d2e1f63b1b345515acd52d5b6f658d694dab07"
+  version "0.4.6"
+  sha256 "5b66aa623effcaf092826bf893e7ef49a10fb97f03408d2fe264fcb1439933fd"
 
   url "https://github.com/bee1an/CodexDock/releases/download/v#{version}/codexdock-#{version}.dmg"
   name "CodexDock"
