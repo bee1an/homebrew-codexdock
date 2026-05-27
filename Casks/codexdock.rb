@@ -2,10 +2,10 @@
 # frozen_string_literal: true
 
 cask "codexdock" do
-  version "list"
-  sha256 "ffd68e96590ad813bcfd2ac58a299cc3d6eb9980b693284c4c6d5c2ecf18ca54"
+  version "0.4.14"
+  sha256 "eb85e6afaf599914ce88480e8b4bba170dc2a9130a227df2e5b64fab73f22439"
 
-  url "https://github.com/bee1an/CodexDock/releases/download/#{version}/codexdock-0.4.10.dmg"
+  url "https://github.com/bee1an/CodexDock/releases/download/v#{version}/codexdock-#{version}.dmg"
   name "CodexDock"
   desc "Desktop account manager for Codex sessions"
   homepage "https://github.com/bee1an/CodexDock"
